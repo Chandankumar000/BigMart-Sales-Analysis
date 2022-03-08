@@ -8,3 +8,12 @@
 
 ## The Data
 We have train (8523) and test (5681) data set, train data set has both input and output variable(s). You need to predict the sales for test data set.
+
+## Data Exploration:
+- Looking at categorical and continuous feature summaries and making inferences about the data.
+
+## Data Cleaning
+- Imputing missing values in the data.
+
+## Model Building
+- Making predictive models on the data
